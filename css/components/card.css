@@ -1,0 +1,17 @@
+.card > img {
+  width: 100px;
+  height: 100px;
+  border: 1px solid green;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.card {
+  background-color: #e5e1c7;
+  text-align: center;
+  border-radius: 8px;
+  border: 1px solid green;
+  padding: 16px;
+  margin: 0 20px;
+  width: 200px;
+}
